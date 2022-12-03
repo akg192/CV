@@ -1,2 +1,8 @@
-# CV
-Detailed profile
+Education : Bachelors degree from Jawaharlal Technological University Hyderabad, India (3/5 GPA).And done my Master Degree from Warsaw University of Technology (4.0/5.0) GPA.
+Experience : Worked on multiple projects and multiple clients. Booster my career by Joining Cognizant global technologies Hyderabad Pvt Ltd in 2018 and I was interested in working on GCP but as I was a recent graduation had no prior experience I was not qualified and i was deployed on AWS. Later in 2019 Feb I moved to Poland do my Master's and I thought of trying for a part time job in AWS but as the education system is completely different and had bundle of projects to do everyday i had no time to focus on it. Bu however after finishing my 2nd semester of MS and due to COVID regulations universities and companies were working remotely so I had an opputunity to make use of time and brush up my skills. As most of my seniors and super seniors were in USA and had few recruitment companies in their prime relationship.  I took help of my seniors and had couple of interviews for the remote jobs and finally placed in a small firm with limited benefits due to the location. However I had great flexibility in managing my work and studies its been more than 2 years in the firm worked on multiple projects.
+Reason for job change:- Seeking a fulltime oppurtunity and also looking for a change and stable employement contract as I am in plans to get married in the mid of 2023.
+When can I join: I am not on notice period However I can join within a month.
+Legal status: Yes having valid Open TRC till 04/2025.
+Skills: Basic knowledge on Ansible, Docker & Terraform code changes and also interested in developing my skills in these areas. And interested in moving to Azure & Gcp so started working on these clouds.
+Can Relocate: Depends on the location and salary package.
+Preferred contract : Umowa praca.
