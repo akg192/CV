@@ -6,3 +6,5 @@ Legal status: Yes having valid Open TRC till 04/2025.
 Skills: Basic knowledge on Ansible, Docker & Terraform code changes and also interested in developing my skills in these areas. And interested in moving to Azure & Gcp so started working on these clouds.
 Can Relocate: Depends on the location and salary package.
 Preferred contract : Umowa praca.
+Preferred contact: Mail would be fine as I could check the JD and get back.
+Languages known: English - B2, Polish : A1, Hindi - C2 & Telugu - C2
